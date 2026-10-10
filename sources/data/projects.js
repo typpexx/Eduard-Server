@@ -11,9 +11,9 @@ export default [
         distinctions: [], // 'awwwards', 'fwa', 'cssda'
         images:
         [
-            'madbox-1.ktx',
-            'madbox-2.ktx',
-            'madbox-3.ktx',
+            'mimic-1.jpg',
+            'mimic-2.jpg',
+            'mimic-3.jpg',
         ]
     },
     {
@@ -29,10 +29,9 @@ export default [
         distinctions: [],
         images:
         [
-            'luni-1.ktx',
-            'luni-2.ktx',
-            'luni-3.ktx',
-            'luni-4.ktx',
+            'exoborne-1.jpg',
+            'exoborne-2.jpg',
+            'exoborne-3.jpg',
         ]
     },
     {
@@ -48,9 +47,9 @@ export default [
         distinctions: [],
         images:
         [
-            'scout-1.ktx',
-            'scout-2.ktx',
-            'scout-3.ktx',
+            'gears-1.jpg',
+            'gears-2.jpg',
+            'gears-3.jpg',
         ]
     },
     {
@@ -66,9 +65,8 @@ export default [
         distinctions: [],
         images:
         [
-            'citrix-redbull-1.ktx',
-            'citrix-redbull-2.ktx',
-            'citrix-redbull-3.ktx',
+            'hunters-1.jpg',
+            'hunters-2.jpg',
         ]
     },
     {
@@ -83,9 +81,9 @@ export default [
         distinctions: [],
         images:
         [
-            'prior-1.ktx',
-            'prior-2.ktx',
-            'prior-3.ktx',
+            'medan-1.jpg',
+            'medan-2.jpg',
+            'medan-3.jpg',
         ]
     },
     {
@@ -100,9 +98,8 @@ export default [
         distinctions: [],
         images:
         [
-            'orano-1.ktx',
-            'orano-2.ktx',
-            'orano-3.ktx',
+            'inpatient-1.jpg',
+            'inpatient-2.jpg',
         ]
     },
     {
@@ -117,9 +114,8 @@ export default [
         distinctions: [],
         images:
         [
-            'bonhomme-10-ans-1.ktx',
-            'bonhomme-10-ans-2.ktx',
-            'bonhomme-10-ans-3.ktx',
+            'bravo-1.jpg',
+            'bravo-2.jpg',
         ]
     },
 ]
